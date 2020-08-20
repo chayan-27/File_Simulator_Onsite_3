@@ -1,0 +1,2 @@
+rootProject.name='FolderTree'
+include ':app'
